@@ -1,4 +1,3 @@
-paralel
 First
 second
 therd
